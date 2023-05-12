@@ -1,0 +1,8 @@
+﻿  uic moxing.ui
+  rcc moxing.qrc
+  moc moxing.h
+  moxing.cpp
+  main.cpp
+  qrc_moxing.cpp
+  moc_moxing.cpp
+  moxing.vcxproj -> C:\vsxm\moxing\x64\Release\moxing.exe
